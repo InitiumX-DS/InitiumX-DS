@@ -230,8 +230,8 @@ En InitiumX seguimos principios sólidos de ingeniería de software:
 
 *Diseñado y desarrollado con ♥ en Honduras*
 
-[![Términos](https://img.shields.io/badge/Términos_y_Condiciones-initiumx.dev-gray?style=flat-square)](https://initiumx.dev/terminos-y-condiciones)
-[![Privacidad](https://img.shields.io/badge/Política_de_Privacidad-initiumx.dev-gray?style=flat-square)](https://initiumx.dev/politica-de-privacidad)
+[![Términos](https://img.shields.io/badge/Términos_y_Condiciones-initiumx.dev-gray?style=flat-square)](https://initiumx.dev/legal/terminos/general/)
+[![Privacidad](https://img.shields.io/badge/Política_de_Privacidad-initiumx.dev-gray?style=flat-square)](https://initiumx.dev/legal/privacidad/)
 
 ---
 
