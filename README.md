@@ -1,10 +1,7 @@
 <div align="center">
 
-<img src="https://initiumx.dev/images/isologo2.svg" alt="InitiumX Logo" width="120" height="120"/>
+<img src="https://initiumx.dev/images/emagotipo2.svg" alt="InitiumX Logo" width="200" height="200"/>
 
-<br/>
-
-# ⚡ InitiumX
 
 ### *"Todo gran cambio comienza con InitiumX"*
 
