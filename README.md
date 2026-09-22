@@ -222,7 +222,7 @@ En InitiumX seguimos principios sólidos de ingeniería de software:
 
 <div align="center">
 
-<img src="https://initiumx.dev/images/emagotipo2.svg" alt="InitiumX" width="160"/>
+<img src="https://initiumx.dev/images/logo.webp" alt="InitiumX" width="160"/>
 
 <br/>
 
