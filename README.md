@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://initiumx.dev/images/emagotipo2.svg](https://initiumx.dev/images/logo.webp" alt="InitiumX Logo" width="200" height="200"/>
+<img src="https://initiumx.dev/images/logo.webp" alt="InitiumX Logo" height="200"/>
 
 
 ### *"Todo gran cambio comienza con InitiumX"*
